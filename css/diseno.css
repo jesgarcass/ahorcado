@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#body1{
+    background: url(../22TB-Bubble-master768-v2.gif) no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+#body2{
+    background: url(../azul.jpg) no-repeat;
+    background-size: cover;
+}
+
+#body3{
+    background: url(../muneco.jpg) no-repeat;
+    background-size: cover;
+}
+
+#canvas1{
+    margin: 1% 0px 0px 0px;
+}
+
+#titulo{
+    font-family: cursive;
+    text-align: center;
+    margin-top: 15%;
+    color:white;
+    font-size: 50px;
+    height: 160px;
+    width: 500px;
+    box-shadow: black 5px 5px 5px 5px;
+}
+
+#buttonindex{
+    font-family: cursive;
+    font-size: 20px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: black 5px 5px;
+    margin: 5%;
+    height: 50px;
+    width: 200px;
+}
+
+#footer1{
+    font-family: cursive;
+    font-size: 20px;
+}
+
+#control{
+    font-family: cursive;
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 50%;
+    right: 30%;
+}
+
+#con{
+    font-family: cursive;
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 90%;
+    right: 50%;
+}
+
+#vidas{
+    color: white;
+    font-size: 20px;
+}
